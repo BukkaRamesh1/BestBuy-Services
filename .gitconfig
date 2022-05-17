@@ -63,4 +63,4 @@
     hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
     
 [remote "origin"]
-   url=git@github.com:BukkaRamesh1/BestBuy-Services.git
+   url=https://github.com/BukkaRamesh1/BestBuy-Services.git
